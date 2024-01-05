@@ -7,6 +7,4 @@ An assemblage of my reusable and easily shareable Terraform configuration files,
 
 #### [https://github.com/rnem/terraform](https://github.com/rnem/terraform)
 
-<br />
-
 ## Table of contents
