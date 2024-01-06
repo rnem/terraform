@@ -7,7 +7,10 @@ module "your_domain" {
 
   bucket_tags = {
     Name        = "yourdomain.com"
+    Purpose	= "website"
+    Access	= "Public"
     Environment = "Your Environment"
+    Region	= "us-west-2"
     Owner       = "Owner"
   }
 }
